@@ -22,11 +22,11 @@ body {
   justify-content: center;
 }
 .ui-level {
-  font-size: 4rem;
-  padding-top: 2rem;
+  font-size: 2rem;
+  padding-top: 1.5rem;
 }
 .ui-message {
-  font-size: 2rem;
+  font-size: 1rem;
 }
 
 .level-two {
